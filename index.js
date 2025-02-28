@@ -17,8 +17,8 @@ function separateNumber(arr) {
      return {positives ,negatives,zero}
      
 }
-console.log(result.positives);
+console.log("this is positive number",result.positives);
 
-console.log(result.negatives);
+console.log("this is negative number",result.negatives);
 
-console.log(result.zero);
+console.log( "this is neutral number",result.zero);
